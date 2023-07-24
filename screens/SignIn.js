@@ -13,7 +13,7 @@ import COLORS from "../Constants/colors";
 import R_Button from "../components/radio_button";
 import Login_Button from "../components/login_button";
 import { Colors } from "react-native/Libraries/NewAppScreen";
-
+        
 export default function SignInComponent({navigation}) {
   return (
     <>
